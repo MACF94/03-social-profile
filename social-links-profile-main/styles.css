@@ -35,6 +35,9 @@ body{
     background-color: var(--color-grey-900);
 }
 
+.container{
+    display: contents;
+}
 .card{
     background-color: var(--color-grey-800);
     padding: clamp(var(--spacing2), 4vw, var(--spacing1));
